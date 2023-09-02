@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+  font-size: 2vw;
+}
+body {
+  font-family: "comic sans ms";
+  background: pink;
+  color: white;
+  text-align: left;
+}
+img { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
