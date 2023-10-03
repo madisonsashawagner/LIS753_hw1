@@ -1,6 +1,6 @@
 body {
     font-family: "verdana";
-    background: #b1d1e3;
+    background: #58355E;
     color: white;
     text-align: left;
     margin: 100px;
@@ -42,5 +42,5 @@ nav ul li {
   padding: 5px;
 }
 nav ul li a{
-  color: #b1d1e3;
+  color: #58355E;
 }
