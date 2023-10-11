@@ -1,15 +1,34 @@
 body {
     font-family: "verdana";
-    background: #58355E;
-    color: white;
+    background: white;
+    color: black;
     text-align: left;
     margin: 100px;
   }
-  h1 {
+  #name {
     text-align: center;
     font-size: 80px;
+    background: black;
+    color: white;
   }
 
+.diverse_books {
+    text-align: center;
+    max-width: 70%;
+    margin: auto;
+    font-size: 30px;
+}
+.diverse_books_illustration{
+    width: 500px;
+    height: auto;
+    padding: 50px;
+    margin: auto;
+}
+.diverse_books_illustraion_caption{
+    font-size: 70px;
+    margin: auto;
+
+}
 
   header img { 
     display: block;
@@ -24,24 +43,21 @@ body {
     }
  
   header img {
-    width: 8%;
+    width: 18%;
   }
  
-p {
-    text-align: center;
-    max-width: 80%;
-    margin: auto;
-  }
-  p q {
-    font-size: 50px;
-  }
+#site_nav {
+    background-color: white;
+}
+
 nav ul {
-  background-color: white;
   list-style: none;
 }
+
 nav ul li {
   padding: 5px;
 }
+
 nav ul li a{
   color: #58355E;
 }
