@@ -24,7 +24,7 @@ body {
     padding: 50px;
     margin: auto;
 }
-.diverse_books_illustraion_caption{
+.caption_info{
     font-size: 70px;
     margin: auto;
 
@@ -47,7 +47,7 @@ body {
   }
  
 #site_nav {
-    background-color: white;
+    background-color: #d3d3d3;
 }
 
 nav ul {
